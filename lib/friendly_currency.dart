@@ -3,3 +3,4 @@
 library friendly_currency;
 
 export 'src/currencies.dart';
+export 'src/currency.dart';

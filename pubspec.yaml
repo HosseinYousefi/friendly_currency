@@ -1,6 +1,6 @@
 name: friendly_currency
 description: A friendlier way to use currencies.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/HosseinYousefi/friendly_currency
 
 environment:
