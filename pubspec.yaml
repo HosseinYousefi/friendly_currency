@@ -1,0 +1,11 @@
+name: friendly_currency
+description: A friendlier way to use currencies.
+version: 0.0.1
+repository: https://github.com/HosseinYousefi/friendly_currency
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
